@@ -15,10 +15,14 @@ body {
     font-size: 1.3em;
   }
   
+  address {
+    font: inherit;
+  }
+
   p,ul,ol,dl,address {
     font-size: 1.1em;
   }
   
-  p, li, dd, dt, address {
+  p,li,dd,dt,address {
     line-height: 1.5;
   }
